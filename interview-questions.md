@@ -34,8 +34,8 @@ Researched answer: A version manager enables users to create a special file with
 
 ## Looking Ahead: Terms for Next Week
 
-1. Ruby blocks:
+1. Ruby blocks: A block is the same thing as a method, but it does not belong to an object. Block can accept arguments and returns a value. Block does not have their own name.
 
-2. RSpec:
+2. RSpec: RSpec is used to write automated tests for Ruby code, specifically for testing the behavior of classes, methods, and other code components.
 
-3. Test-driven development:
+3. Test-driven development: TDD is a software development practice that emphasizes writing tests before writing the actual code.
